@@ -123,3 +123,21 @@ li {
   color: #025157;
   margin-right: 18px;
 }
+
+.promo {
+  display: flex; 
+  width: 70%;
+  margin: 100px auto;
+  align-items: center;
+}
+
+.explanatory-video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.explanatory-video img {
+  width: 120px;
+  margin-top: 10px;
+}
