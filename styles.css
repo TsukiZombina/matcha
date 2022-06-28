@@ -149,3 +149,8 @@ li {
   right: 0;
   background-color: #fffbf7; 
 }
+
+.features {
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
