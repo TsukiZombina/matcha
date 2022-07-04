@@ -1,0 +1,23 @@
+{
+  "name": "matcha",
+  "version": "1.0.0",
+  "description": "En este curso aprenderás las bases del desarrollo front-end, en el cuál podrás\r adquirir habilidades que te ayudarán a crear un sitio web estático desde cero,\r usando los lenguajes bases como HTML y CSS, además de ciertas herramientas que\r harán que tu flujo de desarrollo sea más rápido y profesional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsukiZombina/matcha.git"
+  },
+  "keywords": [],
+  "author": "Tsuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsukiZombina/matcha/issues"
+  },
+  "homepage": "https://github.com/TsukiZombina/matcha#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
