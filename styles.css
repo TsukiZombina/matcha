@@ -548,6 +548,10 @@ li {
   .main {
     margin-top: 130px;
   }
+
+  .banner > img {
+      width: 100%;
+  }
   
   h1 {
     font-size: 30px;
