@@ -553,6 +553,19 @@ li {
       width: 100%;
   }
   
+  .publish > form {
+      flex-direction: column;
+  }
+  
+  .publish > form > div {
+    height: 50px;
+    margin-top: 10px;
+  }
+
+  .publish > form > div > input {
+    width: 65%;
+  }
+  
   h1 {
     font-size: 30px;
   }
