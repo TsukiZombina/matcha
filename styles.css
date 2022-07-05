@@ -750,17 +750,16 @@ li {
 
   .success-stories {
       flex-direction: column;
-      p
   }
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
-@media (min-width: 576px and max-width: 767px) {
-  ...;
+@media (min-width: 576px) and (max-width: 767px) {
+
 }
 
 /** dispositivos medianos (tablets) */
-@media (min-width: 768px and max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .navbar,
   .actions {
     text-align: center;
@@ -826,11 +825,9 @@ li {
 }
 
 /** dispositivos grandes (desktops) */
-@media (min-width: 992px and max-width: 1199px) {
-  ...;
+@media (min-width: 992px) and (max-width: 1199px) {
 }
 
 /** dispositivos extra grandes (monitores grandes, tvs) */
 @media (min-width: 1200px) {
-  ...;
 }
