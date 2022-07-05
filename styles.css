@@ -569,6 +569,24 @@ li {
   h1 {
     font-size: 30px;
   }
+  
+  .promo {
+    flex-direction: column;
+    max-width: 90%;
+  }
+
+  .explanatory-video > video {
+    width: 100%;
+  }
+
+  .publish {
+    margin-top: 10px;
+  }
+
+  .publish > h3 {
+    font-size: 25px;
+    line-height: 1.2;
+  }
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
